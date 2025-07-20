@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+ENV/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Session and local files
+*.session
+*.log
+
+# Environment variables
+.env
+
+# Other
+*.swp
+*.swo 
